@@ -1,2 +1,3 @@
 ﻿  ConsoleApplication24.cpp
-  ConsoleApplication24.vcxproj -> C:\Users\ProNout\source\repos\ConsoleApplication24\x64\Debug\ConsoleApplication24.exe
+C:\Users\ProNout\source\repos\ConsoleApplication24\ConsoleApplication24.cpp(656,1): error C4716: ProductAccumulator::fold1: должна возвращать значение
+C:\Users\ProNout\source\repos\ConsoleApplication24\ConsoleApplication24.cpp(643,1): error C4716: SumAccumulator::fold1: должна возвращать значение
